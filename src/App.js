@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>squashtest1 commit1</h1>
+      <h1>Suqashtest1 commit2</h1>
     </div>
   );
 }
